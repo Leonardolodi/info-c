@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "puntatori": "c"
+        "puntatori": "c",
+        "stdio.h": "c"
     }
 }
